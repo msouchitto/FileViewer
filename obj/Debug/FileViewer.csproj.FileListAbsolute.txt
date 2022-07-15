@@ -1,0 +1,15 @@
+C:\Users\souch\Desktop\New folder\FileViewer\FileViewer\bin\Debug\FileViewer.exe.config
+C:\Users\souch\Desktop\New folder\FileViewer\FileViewer\bin\Debug\FileViewer.exe
+C:\Users\souch\Desktop\New folder\FileViewer\FileViewer\bin\Debug\FileViewer.pdb
+C:\Users\souch\Desktop\New folder\FileViewer\FileViewer\obj\Debug\FileViewer.csproj.AssemblyReference.cache
+C:\Users\souch\Desktop\New folder\FileViewer\FileViewer\obj\Debug\MainWindow.g.cs
+C:\Users\souch\Desktop\New folder\FileViewer\FileViewer\obj\Debug\App.g.cs
+C:\Users\souch\Desktop\New folder\FileViewer\FileViewer\obj\Debug\FileViewer_MarkupCompile.cache
+C:\Users\souch\Desktop\New folder\FileViewer\FileViewer\obj\Debug\FileViewer_MarkupCompile.lref
+C:\Users\souch\Desktop\New folder\FileViewer\FileViewer\obj\Debug\MainWindow.baml
+C:\Users\souch\Desktop\New folder\FileViewer\FileViewer\obj\Debug\FileViewer.g.resources
+C:\Users\souch\Desktop\New folder\FileViewer\FileViewer\obj\Debug\FileViewer.Properties.Resources.resources
+C:\Users\souch\Desktop\New folder\FileViewer\FileViewer\obj\Debug\FileViewer.csproj.GenerateResource.cache
+C:\Users\souch\Desktop\New folder\FileViewer\FileViewer\obj\Debug\FileViewer.csproj.CoreCompileInputs.cache
+C:\Users\souch\Desktop\New folder\FileViewer\FileViewer\obj\Debug\FileViewer.exe
+C:\Users\souch\Desktop\New folder\FileViewer\FileViewer\obj\Debug\FileViewer.pdb
